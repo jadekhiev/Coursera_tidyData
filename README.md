@@ -7,7 +7,7 @@ Machine Learning
 Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)).
 
 To assess the dataset and get more information, visit the /data
-directory.
+directory or the codeBook.MD file.
 
 run\_analysis.R
 =======
