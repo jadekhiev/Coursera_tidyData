@@ -1,7 +1,7 @@
 How To Use This Git
 ===================
 
-Run the `run_analysis.R` located in the /scripts directory to create a
+Run the `run_analysis.R` located in this directory to create a
 tidy data set that can be used in future analysis ([sourced from the UCI
 Machine Learning
 Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#)).
