@@ -9,12 +9,8 @@ Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Us
 To assess the dataset and get more information, visit the /data
 directory.
 
-scripts
+run\_analysis.R
 =======
-
-All script(s) required for this project have been stored in this folder.
-
-### run\_analysis.R
 
 This script is used to import, clean, and consolidate the test and train
 datasets. It is also used to output an average of variables representing
